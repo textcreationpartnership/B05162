@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act anent the maintenance of the army and moneys to be raised for that effect. February 27. 1645.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05162</idno>
+            <idno type="STC">Wing S1048A</idno>
+            <idno type="STC">ESTC R183861</idno>
+            <idno type="EEBO-CITATION">53981708</idno>
+            <idno type="OCLC">ocm 53981708</idno>
+            <idno type="VID">180329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05162)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180329)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act anent the maintenance of the army and moneys to be raised for that effect. February 27. 1645.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: stained with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Finance --  Law and legislation --  Early works to 1800.</term>
+               <term>Taxation --  Law and legislation --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:180329:1" rendition="simple:additions"/>
+            <head>
+               <hi>ACT Anent the MAINTENANCE of the ARMY</hi> And Moneys to be raiſed for that effect.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>February</hi> 27. 1645.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Eſtates of Parliament now c<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>veened in the ſecond Seſſion of this firſt Triennall Parliament, by ver<g ref="char:EOLhyphen"/>tue of the laſt Act of the laſt Par<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment, holden by his Majeſtie and the three Eſtates in <hi>Anno</hi> 1641. Taking to their conſideration: The great prejudice and danger which the Kingdom and Religion have already ſuſtained, By the late Inva<g ref="char:EOLhyphen"/>ſion of the Iriſh Rebels, and our un<g ref="char:EOLhyphen"/>naturall Countreymen; And how neceſſarly it is incumbent to them being now conveened, to provide for all ſpeedy and ſolid remedies againſt the ſame; For which effect, finding it moſt expedient, That not only this Kingdom may be put in ane juſt Poſture of Defence, but al<g ref="char:EOLhyphen"/>ſo, That ane conſtant and ſetled way may be eſtabliſhed for protect<g ref="char:EOLhyphen"/>ting, with Gods aſſiſtance, the Warre againſt the ſaids Invaders in ane hoſtile manner, to their utter overthrow and deſtruction; Have thereunto thought fitting for the more ſpeedy execution hereof, and for <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and recruting their Forces after-mentioned, and for the <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tenance of the ſame, in the moſt eaſie and proportionable <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for the Lieges; To enact, ſtatute, and ordaine Like as for <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they enact, ſtatute, and ordaine thir preſents following; To be obeyed and obſerved by all the Subjects of this Kingdom, calle<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hereafter expreſt.</p>
+            <p>In the firſt, That the Countrey may be freed of Quartering <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tings, and Plunderings, and that the Labourers and Trade<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do their Labour at home, except upon extream neceſſary, Iriſh <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for the eaſe of the Kingdom, and moſt certain for the <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> This every Shire and Burgh, ſhall enter<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> from the <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, to the laſt day of <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>portion
+<pb n="2" facs="tcp:180329:2"/>of Forces, Horſe and Foot, as well Souldier as Officer, accor<g ref="char:EOLhyphen"/>ding to the rule of Loane and Taxt, extending in the particular, to the number and ſummes contained in the Rols following, which is declared to bee the two part of the pay due to be payed within Scot<g ref="char:EOLhyphen"/>land, to the Officers of Horſe and Foot, and to the Souldiers of Foot, and Fourteen ſhillings to the Trouper: The third to run in arears to the ſaids Officers and Foot Souldiers, and Four ſhillings to the Horſe, and a proportionable part to the Dragooners.</p>
+            <p>Here follows the tenor of the ſaids Rols, payable to the Officers of Horſe, Foot, and Dragooners, by the Shires and Burrows, conforme to the diviſion and proportion following, <hi>viz.</hi> The monethly pay of ane Regiment of Horſe in their Quarters, being the two part of their Pay, conforme to the Scots eſtabliſhment: Officers of the Staffe, Co<g ref="char:EOLhyphen"/>lonell <hi>per menſem</hi> 333 <abbr>l.</abbr> 6 <abbr>s.</abbr> 8 <abbr>d.</abbr> Lievetenant Colonell 200 <abbr>l.</abbr> Major 133 <abbr>l.</abbr> 6 <abbr>s.</abbr> 8 <abbr>d.</abbr> Miniſter 26 <abbr>l.</abbr> 13 <abbr>s.</abbr> 4 <abbr>d.</abbr> Regiment Quarter-Maſter 45 <abbr>l.</abbr> Chyrurgion 30 <abbr>l.</abbr> Eight Root-maſters, each of them 100 <abbr>l.</abbr> 
+               <hi>per menſem inde</hi> 800 <abbr>l.</abbr> Eight Lievetenants, each of them 45 <abbr>l.</abbr> 
+               <hi>per menſem inde</hi> 360 <abbr>l.</abbr> Eight Cornets, each of them 36 <abbr>l.</abbr> 
+               <hi>per menſem inde</hi> 288 <abbr>l.</abbr> Eight Quarter-maſters, each of them 30 <abbr>l.</abbr> 
+               <hi>per menſem inde</hi> 240 <abbr>l.</abbr> Twen<g ref="char:EOLhyphen"/>ty four Corporals, each of them 24 <abbr>l.</abbr> 
+               <hi>per menſem inde</hi> 576 <abbr>l.</abbr> Eight Trumpeters, each of them 20 <abbr>l.</abbr> 
+               <hi>per menſem inde</hi> 160 <abbr>l.</abbr> Six hundreth Troupers, each of them 14 <abbr>s.</abbr> 
+               <hi>per diem,</hi> is 21 <abbr>l.</abbr> 
+               <hi>per menſem inde</hi> 12600 <abbr>l.</abbr> The monethly Pay of a Regiment of Foot in their Quarters, conforme to the Scots eſtabliſhment, being two part of their Pay, Colonel <hi>per menſem</hi> 222 <abbr>l.</abbr> 4 <abbr>s.</abbr> 4 <abbr>d.</abbr> Lievetenant Colonell <hi>per menſem</hi> 133 <abbr>l.</abbr> 6 <abbr>s.</abbr> 8 <abbr>d.</abbr> Major <hi>per menſem</hi> 88 <abbr>l.</abbr> 17 <abbr>s.</abbr> 4 <abbr>d.</abbr> Miniſter <hi>per menſem</hi> 26 <abbr>l.</abbr> 13 <abbr>s.</abbr> 4 <abbr>d.</abbr> Regiment Quarter-maſter <hi>per menſem</hi> 30 <abbr>l.</abbr> Chyrurgion 30 <abbr>l.</abbr> Drum<g ref="char:EOLhyphen"/>mer-Major <hi>per menſem</hi> 12 <abbr>l.</abbr> Regiment Scriver <hi>per menſem</hi> 20 <abbr>l.</abbr> Proveſt Merſhall <hi>per menſem</hi> 12 <abbr>l.</abbr> Ten Captains <hi>per menſem</hi> 666 <abbr>l.</abbr> 13 <abbr>s.</abbr> 4 <abbr>d.</abbr> Ten Lievetenants <hi>per menſem</hi> 300 <abbr>l.</abbr> Ten Enſignes <hi>per menſem</hi> 240 <abbr>l.</abbr> Twenty Sergeants <hi>per menſem</hi> 200 <abbr>l.</abbr> Thirty Corporals <hi>per menſem</hi> 240 <abbr>l.</abbr> Ten Captains at Armes <hi>per menſem</hi> 100 <abbr>l.</abbr> Ninteen Drummers <hi>per menſem</hi> 152 <abbr>l.</abbr> Ane thouſand common Souldiers <hi>per menſem</hi> 6000 <abbr>l.</abbr>
+            </p>
+            <p>Followes the ſummes monethly payable according to thirty dayes <hi>per menſem:</hi> Together with the number of men to bee entertained by the Shires and Burghs according to the Taxt, <hi>viz.</hi> Orknay 127 men, monethly Pay 1143 <abbr>l.</abbr> Innerneſſe 464 men, monethly Pay 4176 <abbr>l.</abbr> Caithneſſe 105 men, monethly Pay 945 <abbr>l.</abbr> Cromerty 11 men, monethly Pay 99 <abbr>l.</abbr> Sutherland 47 men, monethly Pay 423 <abbr>l.</abbr> Naime 35 men, monethly Pay 315 <abbr>l.</abbr> Elgine 210 men, monethly Pay 1890 <abbr>l.</abbr> Aberdene 727 men, monethly pay 6543 <abbr>l.</abbr> Bamff 159 men, monethly Pay 1431 <abbr>l.</abbr> Kincardine 174 men, monethly Pay 1566 <abbr>l.</abbr> Forfar 556 men, monethly Pay 5004 <abbr>l.</abbr> Perth 889 men, mo<g ref="char:EOLhyphen"/>nethly Pay 8001 <abbr>l.</abbr> Fyffe 738 men, monethly pay 6642 <abbr>l.</abbr> Stirling 282 men, monethly pay 2538 <abbr>l.</abbr> Kinroſſe 16 men, monethly Pay 144 <abbr>l.</abbr> C<gap reason="illegible" resp="#OXF" extent="8 letters">
+                  <desc>〈8 letters〉</desc>
+               </gap>e, 6 men, monethly Pay 522 <abbr>l.</abbr> Edinburgh 463 men, mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hly Pay 4167 <abbr>l.</abbr> Linlithgow 194 men, monethly Pay 1746 <abbr>l.</abbr> Ha<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngton 376 men, monethly Pay 3384 <abbr>l.</abbr> Berwick 395 men, monethly
+<pb n="3" facs="tcp:180329:2"/>Pay 3555 <abbr>l.</abbr> Roxburgh 642 men, monethly pay 5778 <abbr>l.</abbr> Selkirk <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> men, monethly pay 1278 <abbr>l.</abbr> Peebles 182 men, monethly pay 2638 <abbr>l.</abbr> Lanerk 598 men, monethly pay 5382 <abbr>l.</abbr> Aire 674 men, monethly pay 6066 <abbr>l.</abbr> Wigtoun and Stewartrie of Kircudbright 486 men, mo<g ref="char:EOLhyphen"/>nethly pay 4374 <abbr>l.</abbr> Drumfreis 494 men, monethly pay 4446 <abbr>l.</abbr> Ren<g ref="char:EOLhyphen"/>frew 245 men, monethly pay 2205 <abbr>l.</abbr> Dumbartan 197 men, monet<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> pay 1233 <abbr>l.</abbr> Argyle 323 men, monethly pay 2907 <abbr>l.</abbr> Bute 3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> m<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> monethly pay 459 <abbr>l.</abbr>
+            </p>
+            <p>Followes the ſummes payable monethly, together with the number of men to be entertained by the Burrows; Edinburgh 574 men, at 6 <abbr>s.</abbr> 
+               <hi>per diem, inde per menſem</hi> 5166 <abbr>l.</abbr> Perth 110. men, at 6 <abbr>s.</abbr> 
+               <hi>per diem, inde per menſem</hi> 990 <abbr>l.</abbr> Dundee 186. men, monethly pay 1674 <abbr>l.</abbr> Aber<g ref="char:EOLhyphen"/>dene 160. men, monethly pay 1440 <abbr>l.</abbr> Stirling 36 men, monethly pay 324 <abbr>l.</abbr> Linlithgow 30. men, monethly pay 270 <abbr>l.</abbr> S. Andrews 60. men, monethly pay 540 <abbr>l.</abbr> Glaſgow 110. men, monethly pay 990 <abbr>l.</abbr> Air 41. men, monethly pay 369 <abbr>l.</abbr> Hadingtoun 36. men, monethly pay 324 <abbr>l.</abbr> Dyſert 30. men, monethly pay 270 <abbr>l.</abbr> Kirkaldie 46. men, monethly pay 414 <abbr>l.</abbr> Montros 53 men, monethly pay 477 <abbr>l.</abbr> Cowper 24. men, monethly pay 216 <abbr>l.</abbr> Anſtruther eaſter 31. men, monethly pay 279 <abbr>l.</abbr> Drumfreis 44. men, monethly pay 396 <abbr>l.</abbr>. Innerneſſe 40. men, monethly pay 360 <abbr>l.</abbr> Breichen 20. men, monethly pay 180 <abbr>l.</abbr> Irving 23. men, monethly pay 207 <abbr>l.</abbr> Elgine 20. men, monethly pay 180 <abbr>l.</abbr> Jedburgh 18. men, monethly pay 162 <abbr>l.</abbr> Wigtoun 15. men, monethly, pay 135. <abbr>l.</abbr> Pittinweyme 15. men, monethly pay 135 <abbr>l.</abbr> Dumferling 12. men, monethly pay 108 <abbr>l.</abbr> Dumbartan 12. men, monethly pay 108 <abbr>l.</abbr> Ranfrew 10. men, monethly pay 90 <abbr>l.</abbr> Lanerk 16. men, moneth<g ref="char:EOLhyphen"/>ly pay 144 <abbr>l.</abbr> Kircudbright 20 men, monethly pay 180 <abbr>l.</abbr> Aberbro<g ref="char:EOLhyphen"/>thok 10. men, monethly pay 90 <abbr>l.</abbr> Bruntiland 16. men, monethly pay 144 <abbr>l.</abbr> Peibles 10. men, monethly pay 90 <abbr>l.</abbr> Carrail 24. men, monethly pay 216 <abbr>l.</abbr> Kinghorn 14. men, monethly pay 126 <abbr>l.</abbr> Thayne 12. men, monethly pay 108 <abbr>l.</abbr> Selkirk 10. men, monethly pay 90 <abbr>l.</abbr> Anſtrither<g ref="char:EOLhyphen"/>weſter 6. men, monethly pay 54 <abbr>l.</abbr> Culros 12. men, monethly pay 108 <abbr>l.</abbr> Dumbar 12. men, monethly pay 108 <abbr>l.</abbr> Bamff 8. men, monethly pay 72 <abbr>l.</abbr> Whithorne 5. men, monethly pay 45 <abbr>l.</abbr> Forfar 6. men, monethly pay 54 <abbr>l.</abbr> Forres 6. men, monethly pay 54 <abbr>l.</abbr> Rotheſay 5. men, monethly pay 45 <abbr>l.</abbr> Rutherglen 5. men, monethly pay 45 <abbr>l.</abbr> Northberwick 4. men, monethly pay 36 <abbr>l.</abbr> Culane 4. men, monethly pay 36 <abbr>l.</abbr> Nairn <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> men, monethly pay 36 <abbr>l.</abbr> Lawder 5. men, monethly pay 45 <abbr>l.</abbr> Innerkeithing 10. men, monethly pay 90 <abbr>l.</abbr> Kiltynnie 3. men, monethly pay 27 <abbr>l.</abbr> Annand 3. men, monethly pay 27 <abbr>l.</abbr> Lochmaben 3. men, monethly pay 27 <abbr>l.</abbr> Sanchuer 3. men, monethly pay 27 <abbr>l.</abbr> Galloway 1. man, monethly pay 9 <abbr>l.</abbr> Queensferrie 7. men, monethly pay 63 <abbr>l.</abbr>
+            </p>
+            <p>
+               <hi>Item,</hi> It is ordained for proſecution of the Warre againſt the Rebels within the Kingdom, That there be made up of the preſent Regiments upon foot, by Recrues or otherwayes, 9000 foot, and theſe to be in Ele<g ref="char:EOLhyphen"/>leven Regiments, each Regiment in 8. or 10. Companies, and in each Company 100. men, and where they are to bee recruted, Th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Company be made up of 126. men, where the ſame may be co<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:180329:3"/>gotten done. And that 600. Horſe be imployed in this Service, with their Officers and Commanders, to bee made up and commanded as the Parliament and their Committees have given, or ſhall give or<g ref="char:EOLhyphen"/>der. And that the 500. Dragoneers, with a Lieutenant Colonel Major, and other inferiour Officers, to be divided in 8. Companies, and to bee <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayed conforme to the Roll of eſtabliſhment, which Officers and Soul<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s are to bee entertained at the Rates contained in the Table above-written, which they are to receive duely in money and proviſions mo<g ref="char:EOLhyphen"/>nethly, The one half at leaſt in money, and the other half in Oat-meal, or other proviſions uſefull for the Army, at the ordinary Rates for the time. And for the better collecting and ingathering of the ſaids ſummes of money, for payment and entertainment of the ſaids Officers and Soul<g ref="char:EOLhyphen"/>diers: The Eſtates nominates and appoints Sir <hi>Adam Hepburn</hi> of Hum<g ref="char:EOLhyphen"/>bie General Collector, with power to him to ſubſtitute Deputes in ilk Shire, and that other Collectors in Burghs and Paroches bee appointed in ſicklike manner, as is contained in the Act of Taxt and Loane; with power to the ſaid General Collector to appoint a Clerk of Collection; Which Collector-Deputes, alſwel of Shires as of Burghs and Paroches and Clerk of Collection, ſhall have ſuch like Fees as is allowed in the ſaid Act of Taxt and Loane, and that to bee up-lifted out of the ſaid Shires and Paroches, by and attour the ſaid maintenance: And the Burghs to bee free, in reſpect they collect their Taxt upon their owne charges.</p>
+            <p>
+               <hi>Item,</hi> If any Shire, Burgh, or Perſon therein deſigned, bee deficient in paying their monethly proportion, ſo that the Souldiers for want be put to Quarters in any other Shire or Burgh, In that caſe it is Ordained, that the Shire or Burgh, who ſhall Quarter the Officers or Souldiers, ſhall have repetition of the failzies, with a third part more in name of failzie. And after compt and reckoning with the Commiſſar of theſe Regi<g ref="char:EOLhyphen"/>ments or Troupes, The Shires or Burghs ſhal have aſſignation <hi>protante,</hi> and a third part more to their localitie for their relief and ſatisfaction: And in caſe of their refuſal, the Committee of Eſtates with the Army, is to give order thereanent to the Committee of Warre of the Shire, deſigned by the Eſtates, being conjunctly lyable for the proportion of the Shires, and the Magiſtrats of Burghs for the Burghs, except for ſuch lands of Burghs, as ſhal be found by the Committee of Eſtates with the Army to be ſtil poſſeſſed by the enemy, or to have binaitogether waſted and burnt by them, ſo that they cannot bee profitable to the Heritors, which deficiencie is to bee ſupplyed by the Committee of Eſtates, out of the Fynes, Forfeitures, or any other Moneys due to the Publick: And the Committee of Warre to have their relief of the diſobedients to the double, and als to have the aſſiſtance of the Forces, if they require the ſamine. And with power to the ſaids Committees of War in every Shire (who are hereby declared to be lyable in the monethly mainte<g ref="char:EOLhyphen"/>nance due to the Souldiers) to call unto them any Heritor within their Shire <hi>reſpective,</hi> and to cauſe them binde with the ſaid Committee for <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mes of Money to be contracted for the ſaid maintenance: But <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alwayes provided, That the Burghs that ſhall happen to bee upon
+<pb n="5" facs="tcp:180329:3"/>the ſaids Committees of Warre of the Shire ſhall be no farther liab<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> nor anſwerable for the maintenance due by the Shire, but allanarly for the lands pertaining to the ſaids Burgeſſes lying within the Shire, if they any have.</p>
+            <p>
+               <hi>Item,</hi> To the effect that the Shires and Burghs be not deceived wi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> falſe muſters, and ſo pay for men who are not really in ſervice. It is <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dained, That theſe who ſhall be appointed for muſtering, ſhall <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly, as they ſhall be required, take a ſurvey of each Regimes<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pany, as well Horſe, Foot, as Dragonners; and that the Shires <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Burghs who ſhall pay their proportion, or ſhall happen to quarter them, may have one, with ſuch as ſhall be appointed by the Committee, to muſter them, if he be preſent with the Armie; otherwiſe, in abſence of that Muſter-maſter, the perſons ſo nominate by the Shire or Burgh, may muſter them: And theſe Officers who are required to muſter their men, and refuſes, ſhall forfeit their place and by-gone pay; And what<g ref="char:EOLhyphen"/>ſoever horſe ſhall be found to be made uſe of for making of falſe mu<g ref="char:EOLhyphen"/>ſters, the Horſe ſhall be confiſcate, and the owner of the Horſe ſhall pay one hundred pounds to the Publick, whenſoever it ſhall be tried: And a Footman who ſhall be made uſe of for making of falſe muſters, ſhall be puniſhable by ſcourging or burning. And the Rootmaſter, Captaine, or any other Officer of Horſe, Foot, or Dragooners, ſhall be found guilty of ſuch falſe muſters, ſhall loſe his place inſtantly, and all his by-gone pay.</p>
+            <p>
+               <hi>Item,</hi> It is ordained, That Magazines of Victuall be provided out of the moneys to be raiſed in part of what ſhall be due, and put in con<g ref="char:EOLhyphen"/>venient and ſure places of the Kingdome, from which it may be moſt commodiouſly carried to the Army: And that there be Provant Ma<g ref="char:EOLhyphen"/>ſters appointed, as well for the North as for the South. And to the end that theſe Magazines may be timouſly provided, the Provant Ma<g ref="char:EOLhyphen"/>ſters are appointed to go about the ſame diligently: And the Shires and Burghs are hereby ordained, before the firſt day of April next, To advance three moneths of the ſummes layed upon them. And becauſe by the preſent Stent laid upon the Shires, the burden may be unequall, which cannot preſently be knowne, in reſpect the valuations of Loan and Taxt are not come in, It is appointed, That the whole valuations within the Kingdome, not already brought in to the Clerk of the Loan and Taxt, be brought in before the firſt day of May next done and per<g ref="char:EOLhyphen"/>fected, conforme to the Act of Convention made thereanent: And that they may be compared by ane perſon to be appointed for ilk ſhire, and the comparing to be perfected betwixt and the firſt day of June next. And if it ſhall be found that ſome Shires maintaines more Officers and Souldiers then others, they ſhall be eaſed thereof, and each Shire pro<g ref="char:EOLhyphen"/>portioned in an equall way, conforme to their Rents: And if the Shire ſhall failzie, and not bring in the valuations betwixt and the ſaid firſt day of May next, They ſhall not onely be debarred from any be<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> or eaſe to be granted to them, but alſo ſhall bear the burden of any <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhall be granted to theſe Shires who ſhall bee found to be <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed. And for the Burrowes part of this Taxt, it ſhall be <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:180329:4"/>altered, according as their Taxt Roll ſhall bee altered.</p>
+            <p>
+               <hi>Item,</hi> The retention of ſix for the hundred of annuall-rents to be for the yeere of God 1645. <hi>viz.</hi> From Martinmaſſe 1644. to Martinmaſſe 1645. Providing alwayes the annuall-rents be fully payed within the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame yeare, 1645. otherwiſe no retention to be granted by the Credi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our, who notwithſtanding hereof, ſhall have power to charge his <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at any Terme, conforme to his Band.</p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, That all Heritors of land within Burgh, or Pendicles and Li<g ref="char:EOLhyphen"/>berties thereof, all Burgeſſes, all Traffiquers exerciſing any Trade, ſhall be ſubject to taxation within Burgh, but prejudice for the time to come of the whole members of the Colledge of Juſtice, their former Rights, Priviledges, and Immunities, wherewith for the preſent in regard of the preſent exigencie they doe diſpence.</p>
+            <p>
+               <hi>Item,</hi> It is ordained, That no ſuſpenſion be granted of any charge to follow upon this preſent Act, without a diſcharge from the party char<g ref="char:EOLhyphen"/>ger, or conſignation of the ſumme charged for, (if ſo be it be upon a ſpeciall charge) and whilk conſignation ſhall be made in the hands of the Collectors <hi>reſpective, viz.</hi> In the hands of the Collectors within the Shire for the Shire, and within the Burgh for the Burgh, Pendicles, and Liberties thereof, including within the Pendicles of Edinburgh, the Houſes, Tenements, and Yards within Leith, Cannongate, and Plea<g ref="char:EOLhyphen"/>ſance, ſo farre as pertaines to the Towne of Edinburgh in propertie or ſuperioritie, and within the Pendicles of other Burrowes all that hath beene in uſe to have beene taxed with them: And all other ſuſpenſions to be null; And that it be granted by the Committee of Eſtates. And theſe ſuſpenſions to be paſt by the Clerk Regiſter and his Deputes, up<g ref="char:EOLhyphen"/>on production of the diſcharge from the Collectors of the Shires or Burghs, or a Teſtifica<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that the ſummes were conſigned in their hands: And the ſame ſuſpenſions to be diſcuſſed by the Committes or Eſtates of Parliament.</p>
+            <p>
+               <hi>Item,</hi> It is ſtatute and ordained, That all Fines, Forfaulters moneyes for forefaulted Lands, Rents, and others paſt and done in this Seſſion of Parliament, and in time coming, ſhall be imployed for the preſent uſe of the Army: As alſo that all Fines, Forefaulters, and moneyes for forefaulters, paſt and done in the former Seſſion of this Parlia<g ref="char:EOLhyphen"/>ment, which are not already diſpoſed upon by the ſaid former Seſſi<g ref="char:EOLhyphen"/>on of Parliament, or their Committees, ſhall be likewiſe imployed to the uſe foreſaid.</p>
+            <p>It is alwayes expreſly declared, ſtatute, and ordained, That no reten<g ref="char:EOLhyphen"/>tion ſhall bee granted of this preſent maintenance hereby impoſed up<g ref="char:EOLhyphen"/>on Shires and Burghs for any Debt, Cauſe, or Occaſion whatſomever, and that no exemption ſhall be granted therefrom to any perſon or per<g ref="char:EOLhyphen"/>ſons whatſomever; except only for Lands, Rents, Annual-rents, and other duties mortified to Colledges, Schooles, Hoſpitals, Miniſters and <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ders Stipends, and for upholding of Kirks and Bridges, but that all <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Heritors, Life-renters, Takſmen, Titulars, Proper Wodſetters, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Conjun<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iars, and Ladie-terces, and others ſubject to the <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> within Shires or Burghs, whereby profit or commoditie ari<g ref="char:EOLhyphen"/>ſes,
+<pb n="7" facs="tcp:180329:4"/>ſhal be lyable to their proportionable part of this maintenance; <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that the Lands and Teinds ſhall pay as they lye locally in Shires, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not by annexation, conforme to the Act of Convention for Taxt <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Loan.</p>
+            <p>Further it is declared, That the payment of the ſaid <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be made by the Shires, ſhall begin the ſaid firſt day of <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> come, and pay for the firſt four moneths, conform to the former <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, and thereafter as they ſhall be rectified and given in by the Shi<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> after the ſamine ſhall be reviſed by the former Valuers: For the whi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> effect the Eſtates of Parliament renewes the former Commiſſion gran<g ref="char:EOLhyphen"/>ted by Act of Convention.</p>
+            <p>And finally it is declared and Ordained, That the Letters and Char<g ref="char:EOLhyphen"/>ges to follow upon this preſent Act and Ordinance, ſhal be raiſed at the inſtance of the Generall Collector and his Deputes, againſt the Com<g ref="char:EOLhyphen"/>mittees of Shires, and Magiſtrates of Burrows, and Letters for their re<g ref="char:EOLhyphen"/>lief, at the inſtance of the Committee of the Shire, and their Collectors, againſt Heritors, Fewers, Fermorers, in the common forme: And all theſe Letters to be direct in the ſame manner, with the ſame proviſions, and with the ſame certifications, contained in the Act of Convention of Eſtates made for the Loan and Taxt.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180329:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
